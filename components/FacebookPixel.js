@@ -1,7 +1,7 @@
 "use client";
 import Script from "next/script";
 
-const PIXEL_ID = "PENDING_PIXEL_ID_ET";
+const PIXEL_ID = "2092704721576143";
 
 export default function FacebookPixel() {
   return (
